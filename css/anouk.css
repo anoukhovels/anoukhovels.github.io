@@ -1,9 +1,16 @@
-/* Main marketing message and sign up button */
-.jumbotron {
-  text-align: center;
-  background-color: transparent;
+@font-face {
+  font-family: hand;
+  src: url(hand2.ttf);
 }
-.jumbotron .btn {
-  font-size: 21px;
-  padding: 14px 24px;
+
+.jumbotron {
+  margin: 50px;
+  text-align: center;
+  background-color: #fff;
+
+}
+
+.jumbotron h1 {
+  font-family: hand;
+  font-size: 150px;
 }
